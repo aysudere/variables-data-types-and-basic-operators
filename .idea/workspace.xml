@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="931839ca-bab5-43cf-bf18-6621f3541cf2" name="Changes" comment="float and double values">
+    <list default="true" id="931839ca-bab5-43cf-bf18-6621f3541cf2" name="Changes" comment="char and boolean veriables">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664282516157</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="char and boolean veriables">
+      <created>1664289104517</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664289104518</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +114,7 @@
     <MESSAGE value="definition of variables, data types and basic operators" />
     <MESSAGE value="int, byte, short and long values" />
     <MESSAGE value="float and double values" />
-    <option name="LAST_COMMIT_MESSAGE" value="float and double values" />
+    <MESSAGE value="char and boolean veriables" />
+    <option name="LAST_COMMIT_MESSAGE" value="char and boolean veriables" />
   </component>
 </project>

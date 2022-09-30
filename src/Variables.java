@@ -1,4 +1,4 @@
-public class Veriables {
+public class Variables {
     /*
     Tüm methodlar main altına yazılır, her projede bir main methodu bulunması gerekiyor
      */
@@ -40,7 +40,7 @@ public class Veriables {
 
         /*
         değişken isimleri verilirken, bazı kurallar vardır
-        -veriables sayı yada rakam ile başlayamaz
+        -variables sayı yada rakam ile başlayamaz
         -değişken isimlerinde türkçe karakter kullanılabilir ancak kullanılmamalı
         -çalıştırılmayan kodlar : yorum satırları olarak adlandırılabilir
         // : tekli yorum satırı

@@ -1,7 +1,7 @@
 public class Strings {
     public static void main(String[] args) {
         /*
-        Daha önce gördüğümüz 8 veriables ilkel veri tipidir
+        Daha önce gördüğümüz 8 variables ilkel veri tipidir
         Üzerlerinde herhangi bir method yada işlem bulundurmaz
 
         String :

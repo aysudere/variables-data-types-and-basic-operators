@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="931839ca-bab5-43cf-bf18-6621f3541cf2" name="Changes" comment="Fuel Free example">
+    <list default="true" id="931839ca-bab5-43cf-bf18-6621f3541cf2" name="Changes" comment="changing variable values example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664542748084</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="changing variable values example">
+      <created>1664546226134</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664546226134</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +164,7 @@
     <MESSAGE value="get inputs from users detail" />
     <MESSAGE value="body mass index example" />
     <MESSAGE value="Fuel Free example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fuel Free example" />
+    <MESSAGE value="changing variable values example" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing variable values example" />
   </component>
 </project>
